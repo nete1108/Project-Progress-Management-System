@@ -1,0 +1,17 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource prefix="/">
+    <file>b1.png</file>
+    <file>b2.png</file>
+    <file>选择登录方式.png</file>
+    <file>还未登录.png</file>
+    <file>登录.png</file>
+    <file>雨滴.png</file>
+    <file>登录-密码.png</file>
+    <file>背景图1.png</file>
+    <file>b3.png</file>
+    <file>b4.png</file>
+    <file>b5.png</file>
+    <file>b6.png</file>
+</qresource>
+</RCC>
